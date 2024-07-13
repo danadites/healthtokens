@@ -5,7 +5,7 @@
     "sellerFeeBasisPoints": 500,
     "creators": [
         {
-            "address": "CREATOR_PUBLIC_KEY",
+            "address": "4ocSXnq4wYPxm5zmwUEmWX2ic3woGn4rVNhwABuqbaKx",
             "verified": true,
             "share": 100
         }
@@ -16,10 +16,10 @@
     },
     "uses": {
         "useMethod": "Burn",
-        "remaining": 10,
-        "total": 100
+        "remaining": 100,
+        "total": 900000
     },
     "editionNonce": 1,
-    "primarySaleHappened": false,
+    "primarySaleHappened": true,
     "isMutable": true
 }
