@@ -1,0 +1,25 @@
+{
+    "name": "WAKA CASH KOIN",
+    "symbol": "WKCT",
+    "uri": "https://raw.githubusercontent.com/danadites/healthtokens/main/logoo.png",
+    "sellerFeeBasisPoints": 500,
+    "creators": [
+        {
+            "address": "CREATOR_PUBLIC_KEY",
+            "verified": true,
+            "share": 100
+        }
+    ],
+    "collection": {
+        "name": "Collection Name",
+        "family": "Collection Family"
+    },
+    "uses": {
+        "useMethod": "Burn",
+        "remaining": 10,
+        "total": 100
+    },
+    "editionNonce": 1,
+    "primarySaleHappened": false,
+    "isMutable": true
+}
